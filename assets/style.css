@@ -13,8 +13,9 @@ body {
 	margin: auto;
 }
 * {
-	font-family: 'Inter';
+	font-family: 'Inter', Roboto, Oxygen-Sans, Ubuntu, Cantarell, sans-serif;
 	font-style: normal;
+
 }
 .top-header {
 	background-color: var(--color-white);
